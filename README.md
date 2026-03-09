@@ -2,7 +2,7 @@
 
 ## 用法
 ```shell
-$ ver -product nignx -target https://103.110.83.23
+$ ver -product arrayos_ag -target https://103.110.83.23
 product: arrayos_ag 	 target: https://103.110.83.23 	 version: 1.1
 $ ver -target https://103.110.83.23
 product: bind 	 target: https://103.110.83.23 	 version: failed
